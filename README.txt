@@ -1,3 +1,3 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/collenk/pen/gLpxpw.
+A mock portfolio website created as part of Free Code Camp's Frontend Certification. 
 
  
