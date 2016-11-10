@@ -1,0 +1,41 @@
+.scroll-down {
+  position: absolute;
+  left: 50%;
+  width: 120px;
+  margin-left: -60px;
+  bottom: 10px;
+}
+
+.scroll-down a {
+  color: #000;
+}
+
+.jumbotron {
+  background-color: #e5e500;
+  background-size: cover;
+  height: 100vh;
+  color: black;
+}
+
+.btn-lg {
+    padding: 10px 16px;
+    font-size: 18px;
+    line-height: 1.3333333;
+    border-radius: 0px;
+}
+
+.btn-primary {
+    color: #e5e500;
+    background-color: #000;
+    border-color: #e5e500;
+}
+
+.btn-primary:hover {
+  color: #000;
+    background-color: #e5e500;
+    border-color: #e5e500;
+}
+
+#contact {
+  background-color: black;
+}
