@@ -1,21 +1,6 @@
-.navbar-custom.top-nav-collapse {
-  padding: 0;
-  background: #000;
-  border-bottom: 1px solid rgba(255,255,255,.3);
-}
-
-.navbar-custom {
-  letter-spacing: 1px;
-  transition: background .5s ease-in-out,padding .5s ease-in-out;
-  transition-property: background, padding;
-  transition-duration: 0.5s, 0.5s;
-  transition-timing-function: ease-in-out, ease-in-out;
-  transition-delay: initial, initial;
-}
-
-.btn, .navbar-custom, h1, h2, h3, h4, h5, h6 {
-  text-transform: uppercase;
-  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+.navbar {
+  background-color: #e5e500;
+  border: none;
 }
 
 .intro {
