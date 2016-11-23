@@ -1,6 +1,3 @@
-$('body').scrollspy({ target: '.navbar' })
-
-
 $(document).ready(function() {
 // Smooth scroll
 var $root = $('html, body');
