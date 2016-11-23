@@ -2,16 +2,23 @@ body {
   position: relative;
 }
 
+/*Custom Navbar*/
 .navbar {
   background-color: #e5e500;
   border: none;
+}
+
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:focus {
+  color: #e5e500;
+  background-color: #000;
 }
 
 .intro {
   display: table;
   background-color: #e5e500;
   width: 100%;
-  min-height: 350px;
+  min-height: 400px;
   color: black;
 }
 
@@ -20,6 +27,7 @@ body {
   vertical-align: middle;
 }
 
+/* Custom Button */
 .btn-lg {
   padding: 10px 16px;
   font-size: 18px;
