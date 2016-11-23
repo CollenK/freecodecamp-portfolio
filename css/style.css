@@ -1,3 +1,7 @@
+body {
+  position: relative;
+}
+
 .navbar {
   background-color: #e5e500;
   border: none;
