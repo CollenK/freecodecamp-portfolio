@@ -28,6 +28,11 @@ body {
   vertical-align: middle;
 }
 
+/* Custom link color */
+.email-link a {
+  color: #e5e500;
+}
+
 /* Custom Button */
 .btn-lg {
   padding: 10px 16px;
