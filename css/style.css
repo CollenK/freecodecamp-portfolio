@@ -33,6 +33,14 @@ body {
   color: #e5e500;
 }
 
+.heading {
+  padding-bottom: 20px;
+}
+
+.social-media-buttons {
+  padding-top: 20px;
+}
+
 /* Custom Button */
 .btn-lg {
   padding: 10px 16px;
